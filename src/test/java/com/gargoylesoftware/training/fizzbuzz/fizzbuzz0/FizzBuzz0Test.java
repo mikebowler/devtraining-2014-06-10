@@ -1,6 +1,6 @@
 package com.gargoylesoftware.training.fizzbuzz;
 
-import com.gargoylesoftware.training.fizzbuzz.fizzbuzz0.FizzBuzz;
+import com.gargoylesoftware.training.fizzbuzz.fizzbuzz0.FizzBuzz0;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
