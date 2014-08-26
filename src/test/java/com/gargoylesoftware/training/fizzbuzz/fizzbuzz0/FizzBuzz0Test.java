@@ -1,4 +1,4 @@
-package com.gargoylesoftware.training.fizzbuzz;
+package com.gargoylesoftware.training.fizzbuzz.fizzbuzz0;
 
 import com.gargoylesoftware.training.fizzbuzz.fizzbuzz0.FizzBuzz0;
 import org.junit.Test;
